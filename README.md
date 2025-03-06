@@ -23,4 +23,5 @@ Our commitment to **continuous education** includes:
 ### 5. Work-Life Balance & Wellness  
 We prioritize **mental health, flexibility, and professional growth**, ensuring a healthy work environment where employees can **thrive personally and professionally**.  
 
-🔗 **Learn More:** [Insert Link to Your GitHub Page or Company Website]  
+🔗 **Learn More:** [Visit Our Workplace Policy](https://boready.github.io/ReadyPrecision-Policy/)
+
